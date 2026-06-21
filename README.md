@@ -40,5 +40,6 @@ Export data to Excel and SQL databases
 Add data visualization dashboards
 Implement asynchronous scraping for better performance
 Create a user-friendly interface
+
 Author
 Vishwajeet Chavan
